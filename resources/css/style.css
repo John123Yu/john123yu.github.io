@@ -438,9 +438,9 @@ header {
       rgba(0, 0, 0, 0.8),
       rgba(0, 0, 0, 0.8)
     ),
-    url(img/back-customers-min.jpg);
+    url(img/work.jpg);
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
-    url(img/back-customers-min.jpg);
+    url(img/work.jpg);
   background-size: cover;
   color: #fff;
   background-attachment: fixed;
